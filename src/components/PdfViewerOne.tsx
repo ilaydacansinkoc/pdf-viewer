@@ -11,7 +11,6 @@ class PdfViewerOne extends React.PureComponent<{},{}>{
   }
   exportToPdf(){
     const content = document.getElementById("content");
-
     const doc = new jsPDF('p','pt','a4');
     const margins = {
       top: 40,
