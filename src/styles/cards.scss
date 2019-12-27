@@ -1,0 +1,12 @@
+.card_wrapper{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.button_wrapper{
+  display: flex;
+  justify-content: center;
+  margin: 30px;
+}
