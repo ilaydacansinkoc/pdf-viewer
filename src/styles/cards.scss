@@ -4,9 +4,50 @@
   flex-wrap: wrap;
   justify-content: space-around;
 }
-
 .button_wrapper{
   display: flex;
   justify-content: center;
   margin: 30px;
+}
+.card_one_paragraph{
+  font-family:Mali, sans-serif;
+}
+.paragraph--one{
+  background: darkred;
+  color: antiquewhite;
+}
+.paragraph--two{
+  background: antiquewhite;
+  font-family: Rubik,sans-serif;
+  color: darkred;
+  font-weight: bolder;
+}
+.paragraph--three{
+  background: linear-gradient(90deg, rgba(118,9,121,0.7399334733893557) 35%, rgba(67,96,179,1) 63%, rgba(42,140,208,1) 77%, rgba(0,212,255,1) 100%);
+  color: black;
+}
+.paragraph--four{
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2wgHqQZSZ9bgVKmbiFaDaYhszG666VUAieGftVagjdwppktex&s");
+  background-position: right;
+  color: cadetblue;
+  font-weight: bolder;
+}
+.card_two_paragraph{
+  font-size: 16px;
+}
+.paragraph--one--c2{
+  font-size: 20px;
+  color: hotpink;
+}
+.paragraph--two--c2{
+  font-size: 12px;
+  color: blue;
+  font-weight: bolder;
+  background: hotpink;
+}
+.paragraph--three--c2{
+  font-size: 15px;
+  color: firebrick;
+  font-weight: bold;
+  background: olive;
 }
