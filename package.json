@@ -16,7 +16,7 @@
     "classnames": "^2.2.6",
     "html2canvas": "^1.0.0-rc.5",
     "jspdf": "^1.5.3",
-    "node-sass": "^4.13.0",
+    "node-sass": "^7.0.0",
     "pdfjs-dist": "^2.2.228",
     "primeicons": "^2.0.0",
     "primereact": "^3.3.3",
